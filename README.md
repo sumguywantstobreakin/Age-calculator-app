@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/sumguywantstobreakin/Age-calculator-)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/sumguywantstobreakin/Age-calculator-app)
+- Live Site URL: (https://sumguywantstobreakin.github.io/Age-calculator-app/)
 
 
 ### Built with
